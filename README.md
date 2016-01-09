@@ -1,1 +1,1 @@
-# t-sql-scripts
+W repozytorium znajdziesz *skrypty T-SQL*, które mogą przydać Ci się podczas codziennej pracy z serwerem bazodanowym **SQL Server**.
