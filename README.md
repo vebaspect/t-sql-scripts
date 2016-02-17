@@ -1,1 +1,1 @@
-W repozytorium znajdziesz *skrypty T-SQL*, które mogą przydać Ci się podczas codziennej pracy z serwerem bazodanowym **SQL Server 2012**.
+W repozytorium znajdziesz *skrypty T-SQL*, które mogą przydać Ci się podczas codziennej pracy z serwerem bazodanowym **SQL Server 2012** lub nowszym.
